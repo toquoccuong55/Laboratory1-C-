@@ -1,0 +1,9 @@
+D:\Spring2018\C#and.Net\Lab1\BookLib\BookLib\bin\Debug\netstandard2.0\BookLib.deps.json
+D:\Spring2018\C#and.Net\Lab1\BookLib\BookLib\bin\Debug\netstandard2.0\BookLib.dll
+D:\Spring2018\C#and.Net\Lab1\BookLib\BookLib\bin\Debug\netstandard2.0\BookLib.pdb
+D:\Spring2018\C#and.Net\Lab1\BookLib\BookLib\obj\Debug\netstandard2.0\BookLib.csprojResolveAssemblyReference.cache
+D:\Spring2018\C#and.Net\Lab1\BookLib\BookLib\obj\Debug\netstandard2.0\BookLib.csproj.CoreCompileInputs.cache
+D:\Spring2018\C#and.Net\Lab1\BookLib\BookLib\obj\Debug\netstandard2.0\BookLib.AssemblyInfoInputs.cache
+D:\Spring2018\C#and.Net\Lab1\BookLib\BookLib\obj\Debug\netstandard2.0\BookLib.AssemblyInfo.cs
+D:\Spring2018\C#and.Net\Lab1\BookLib\BookLib\obj\Debug\netstandard2.0\BookLib.dll
+D:\Spring2018\C#and.Net\Lab1\BookLib\BookLib\obj\Debug\netstandard2.0\BookLib.pdb

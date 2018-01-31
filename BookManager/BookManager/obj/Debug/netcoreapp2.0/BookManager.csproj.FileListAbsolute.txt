@@ -1,0 +1,15 @@
+D:\Spring2018\C#and.Net\Lab1\BookManager\BookManager\bin\Debug\netcoreapp2.0\BookManager.deps.json
+D:\Spring2018\C#and.Net\Lab1\BookManager\BookManager\bin\Debug\netcoreapp2.0\BookManager.runtimeconfig.json
+D:\Spring2018\C#and.Net\Lab1\BookManager\BookManager\bin\Debug\netcoreapp2.0\BookManager.runtimeconfig.dev.json
+D:\Spring2018\C#and.Net\Lab1\BookManager\BookManager\bin\Debug\netcoreapp2.0\BookManager.dll
+D:\Spring2018\C#and.Net\Lab1\BookManager\BookManager\bin\Debug\netcoreapp2.0\BookManager.pdb
+D:\Spring2018\C#and.Net\Lab1\BookManager\BookManager\bin\Debug\netcoreapp2.0\BookLib.dll
+D:\Spring2018\C#and.Net\Lab1\BookManager\BookManager\bin\Debug\netcoreapp2.0\Menu.dll
+D:\Spring2018\C#and.Net\Lab1\BookManager\BookManager\bin\Debug\netcoreapp2.0\BookLib.pdb
+D:\Spring2018\C#and.Net\Lab1\BookManager\BookManager\bin\Debug\netcoreapp2.0\Menu.pdb
+D:\Spring2018\C#and.Net\Lab1\BookManager\BookManager\obj\Debug\netcoreapp2.0\BookManager.csprojResolveAssemblyReference.cache
+D:\Spring2018\C#and.Net\Lab1\BookManager\BookManager\obj\Debug\netcoreapp2.0\BookManager.csproj.CoreCompileInputs.cache
+D:\Spring2018\C#and.Net\Lab1\BookManager\BookManager\obj\Debug\netcoreapp2.0\BookManager.AssemblyInfoInputs.cache
+D:\Spring2018\C#and.Net\Lab1\BookManager\BookManager\obj\Debug\netcoreapp2.0\BookManager.AssemblyInfo.cs
+D:\Spring2018\C#and.Net\Lab1\BookManager\BookManager\obj\Debug\netcoreapp2.0\BookManager.dll
+D:\Spring2018\C#and.Net\Lab1\BookManager\BookManager\obj\Debug\netcoreapp2.0\BookManager.pdb

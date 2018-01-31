@@ -1,0 +1,9 @@
+D:\Spring2018\C#and.Net\Lab1\Menu\Menu\bin\Debug\netstandard2.0\Menu.deps.json
+D:\Spring2018\C#and.Net\Lab1\Menu\Menu\bin\Debug\netstandard2.0\Menu.dll
+D:\Spring2018\C#and.Net\Lab1\Menu\Menu\bin\Debug\netstandard2.0\Menu.pdb
+D:\Spring2018\C#and.Net\Lab1\Menu\Menu\obj\Debug\netstandard2.0\Menu.csprojResolveAssemblyReference.cache
+D:\Spring2018\C#and.Net\Lab1\Menu\Menu\obj\Debug\netstandard2.0\Menu.csproj.CoreCompileInputs.cache
+D:\Spring2018\C#and.Net\Lab1\Menu\Menu\obj\Debug\netstandard2.0\Menu.AssemblyInfoInputs.cache
+D:\Spring2018\C#and.Net\Lab1\Menu\Menu\obj\Debug\netstandard2.0\Menu.AssemblyInfo.cs
+D:\Spring2018\C#and.Net\Lab1\Menu\Menu\obj\Debug\netstandard2.0\Menu.dll
+D:\Spring2018\C#and.Net\Lab1\Menu\Menu\obj\Debug\netstandard2.0\Menu.pdb
